@@ -1,6 +1,6 @@
-aws_region = "eu-west-2"
+aws_region = "us-east-1"
 
-vpc_id = "vpc-00ee067d66dfcc2bc"
+vpc_id = "vpc-00ed04b0c92f0956a"
 
 cidr_block = "172.31.0.0/16"
 
